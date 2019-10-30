@@ -1,1 +1,20 @@
-Denna kommer frÃn en annan branch!i
+commit 62dc82ddad5527696156aac2af633aefd2c1137b (HEAD -> master, origin/newUpdates, newUpdates)
+commit 62dc82ddad5527696156aac2af633aefd2c1137b (HEAD -> master, origin/newUpdates, newUpdates)
+Author: gitPg <pg.patrik@gmail.com>
+Date:   Wed Oct 30 10:25:57 2019 +0100
+
+    Text fr<C3><A5>n annan branch
+
+commit 3432faad371217ba54f9907330165c83036c983d (origin/master)
+Author: gitPg <pg.patrik@gmail.com>
+Date:   Wed Oct 30 10:24:20 2019 +0100
+
+    Pushing readme
+
+commit b2ee873ac0192531179b1d647c69f7d55846f1ef
+Author: gitPg <pg.patrik@gmail.com>
+Date:   Wed Oct 30 10:21:43 2019 +0100
+
+    First commit
+(END)
+
